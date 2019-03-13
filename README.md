@@ -24,7 +24,7 @@ I'll be filling these out as soon as time allows, but I wanted to establish a ro
 
 > For most of these topics, the short answer will be "it depends." Expect a **discussion of whens, whys, and tradeoffs.**
 
-- What about the command line versus graphical tools?
+- What about the [command line versus graphical tools](./cli-vs-graphical.md)?
 - What about making commits?
 - What about branching strategies like:
     - partying directly on the mainline (aka trunk based)?
