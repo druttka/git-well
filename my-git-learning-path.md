@@ -1,17 +1,17 @@
 # My Git Learning Path
 
-When I help someone through an "interesting" situation with git, there are a few concepts that very frequently come up. Sometimes, after covering these concepts, people don't need me anymore. When we do have continued discussions, it's much easier because we have a shared context.
+When I help someone through an "interesting" situation with git, there are a few concepts that very frequently come up. Sometimes, after covering these concepts, people come to their own solution or answer their own question. When we do have continued discussions, it's much easier because we have a shared context.
 
-Before discussing concrete workflows, I feel that it's important to establish that same shared context. There is [a plethora of existing git resources](https://github.com/jongio/gitawesome), but people have expressed to me that it can be difficult to determine which are the best investments of their time, or in which order to consume them.
+There is [a plethora of existing git resources](https://github.com/jongio/gitawesome), but people have expressed to me that it can be difficult to determine which are the best investments of their time, or in which order to consume them.
 
 Specific resources will follow, but I believe that *conceptually* the following path will have the most critical impact for how effectively you use git:
 
 - Understand that git is a graph
-- Understand that branches and tags are refs (pointers)
-- Understand the relationships between working, staging, and the repository
+- Understand that branches and tags are refs (pointers) to the commit nodes
+- Understand the relationship between the working tree, staging, and the repository
 - Understand the relationship between local repositories and the zero-to-many remotes
 
-In my experience, after digesting these concepts, it is much easier to explore the commands and tools to achieve the desired results over those objects.
+In my experience, after digesting these concepts, it is much easier to explore the commands and tools to apply the desired operations over those objects.
 
 ## Git Happens
 
