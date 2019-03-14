@@ -28,6 +28,8 @@ I'll be filling these out as soon as time allows, but I wanted to establish a ro
     - partying directly on the mainline (aka trunk based)?
     - [gitflow](https://nvie.com/posts/a-successful-git-branching-model/)?
     - [GitHub flow](https://guides.github.com/introduction/flow/)?
+- What about fetch versus pull?
+- Can you just tell me the sequence of commands you use every time, assuming nothing has gone wrong?
 - What about forks?
 - Why is my new PR for one new commit also including a large number of old commits?
 - What about rebase versus merge?
