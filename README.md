@@ -1,16 +1,14 @@
 # How I Git
 
-People that I work with will frequently suggest to me that I write something about my git workflow(s). Historically, I have hesitated to do this for a few reasons.
+People that I work with will frequently suggest to me that I write something about my git workflow(s). Historically, I have hesitated to do this.
 
-First, "it depends." Given the nature of the project, the team culture, non-functional requirements like audits and compliance, and a general feeling that there are (over) 9000 ways to do anything with git, a **discussion** is typically the most effective way forward.
+One primary reason is that "it depends." Given the nature of the project, the team culture, non-functional requirements like audits and compliance, and a general feeling that there are (over) 9000 ways to do anything with git, a **discussion** is typically the most effective way forward.
 
-Second, I'm not convinced that I have anything new to say.
+Another is that over the past eight years, I've come to my understanding of git through hands-on experience combined with leveraging what others already shared. As to the former, anyone on my teams knows that I'm **always** happy to pay it forward and share my git experience, but again, it's usually more effective if it's hands-on or a collaborative discussion. As to the latter, I have no desire to take the work that others have put in and pretend that it's my own.
 
-Third, I'm always learning! What I said to my team three years ago is very different from what I'll say today.
+To mitigate these hesitations, I'm going to attempt to frame my thoughts here as if they were one of those discussions with my team. I'll also start out by redirecting you to the resources which I commonly recommend. [Issues](https://github.com/druttka/how-i-git/issues) will be enabled, so that can be an effective way for anyone to ask questions or bring up additional discussion points.
 
-To mitigate these hesitations, I'm going to attempt to frame my thoughts here as if they were one of those discussions with my team. I'll also start out by redirecting you to the resources which I commonly recommend. I hope to continue adding and updating as I learn more, rethink things, or people ask about another topic. [Issues](https://github.com/druttka/how-i-git/issues) will be enabled, so that can be an effective way for anyone to ask questions or bring up additional discussion points.
-
-Through it all, keep in mind that this is only me sharing what has worked for me over the years. Please evaluate what works best for you and for your teams.
+Through it all, it bears repeating that "it depends." Please take all of this not as a "do or do not" prescriptive screed, but as a guide for evaluating what works best for you and for your teams.
 
 ## My Git Learning Path (Prerequisites)
 
@@ -20,7 +18,7 @@ Given that experience, before discussing concrete workflows I feel that it's imp
 
 ## My Git Workflows
 
-I'll be filling these out as soon as time allows, but I wanted to establish a roadmap.
+I'll be filling these out as soon as time allows, but I wanted to establish a roadmap. In the long term, I also hope to organize the raw thoughts into a decision matrix to highlight which workflow I typically go to when given some set of variables (number of collaborators, type of project, whether it accepts community PRs, team culture, team familiarity with git, etc.).
 
 > For most of these topics, the short answer will be "it depends." Expect a **discussion of whens, whys, and tradeoffs.**
 
@@ -31,6 +29,7 @@ I'll be filling these out as soon as time allows, but I wanted to establish a ro
     - [gitflow](https://nvie.com/posts/a-successful-git-branching-model/)?
     - [GitHub flow](https://guides.github.com/introduction/flow/)?
 - What about forks?
+- Why is my new PR for one new commit also including a large number of old commits?
 - What about rebase versus merge?
 - What about squashing?
 
