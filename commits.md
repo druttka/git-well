@@ -12,6 +12,8 @@ I strongly encourage atomic commits. That is, a commit should be a unit of work 
 - If a bisect is used to determine a point of failure, it is clear what change introduced the failure
 - This inherenty lends itself to more frequent commits, which I often compare to establishing checkpoints or saving your game before trying to [make it through the poison brambles](http://www.uhs-hints.com/uhsweb/hints/kq2/32.php)
 
+> TIP: Atomic commits work great with test driven workflows. Joey and I had a blast years ago applying that approach to [asfac commits](https://github.com/thedevstop/asfac/commits/master?after=e31ce84ef1b628a681cc52901411c3deda77249e+104).
+
 One of the common concerns raised is whether this overcomplicates, clutters, or pollutes the graph. That's a fair question, and there are certainly tradeoffs. Depending on the branching strategy and team workflow, there are some [potential compromises](./atomic-compromises.md).
 
 > TIP: If you realize you've done too much work at once and wish you had applied more granular commits, check out [`git add -p`](http://www.codefoster.com/addpatch/)! This allows you to stage *portions* of your working tree instead of entire files.
