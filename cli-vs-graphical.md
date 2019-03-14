@@ -8,13 +8,11 @@ A few examples...
 
 ## Staging changes, fetching, pushing, etc.
 
-Here, I still **personally** prefer the command line. Much of this comes from habit, but there's also much to be said for the flexibility, control, and power.
+Here, I still **personally** prefer the command line. Much of this comes from habit, but there's also much to be said for the flexibility, control, and power. Dropping back to the command line to stage changes, commit, fetch, reset, push, etc. eliminates an opaque level of abstraction that sits between me and git - a process which might interact with git in a way which does not align to my expectations.
 
-I use [VS Code](https://code.visualstudio.com/) quite a bit these days, and the git tooling truly has come extremely far compared to what I remember from earlier Visual Studio releases. However, which of these, if any, will *only* fetch? And what exactly is included in a "Sync"?
+To wit, I use [VS Code](https://code.visualstudio.com/) quite a bit these days, and the git tooling truly has come extremely far compared to what I remember from earlier Visual Studio releases. However, which of these, if any, will *only* fetch? And what exactly is included in a "Sync"?
 
 ![VS Code Git UI](./images/vs-code-git-ui.jpg)
-
-Dropping back to the command line to stage changes, commit, fetch, reset, push, etc. eliminates this opaque process sitting between me and git - a process which might interact with git in a way which does not align to my expectations.
 
 That said, if your project and team are using a "happy path" workflow and the graphical tools aren't causing problems, I can absolutely understand how they can keep people focused on their work instead of remembering git syntax.
 
