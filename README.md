@@ -1,4 +1,4 @@
-# How I Git
+# Let's Talk About Git
 
 People that I work with will frequently suggest to me that I write something about my git workflow(s). Historically, I have hesitated to do this.
 
@@ -16,7 +16,7 @@ When I help someone through an "interesting" situation with git, there are a few
 
 Given that experience, before discussing concrete workflows I feel that it's important to establish that same shared context. Before continuing, please take a look at my thoughts on [an effective git learning path](./my-git-learning-path.md).
 
-## My Git Workflows
+## Git Well Soon
 
 I'll be filling these out as soon as time allows, but I wanted to establish a roadmap. In the long term, I also hope to organize the raw thoughts into a decision matrix to highlight which workflow I typically go to when given some set of variables (number of collaborators, type of project, whether it accepts community PRs, team culture, team familiarity with git, etc.).
 
