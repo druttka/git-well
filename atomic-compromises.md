@@ -1,6 +1,6 @@
 # Compromises: Atomicity on the graph
 
-One of the common concerns raised when discussing [atomic commits](./commits.md#atomicity) is whether this overcomplicates, clutters, or pollutes the graph. That's a fair question, and there are certainly tradeoffs. Depending on the branching strategy, there are some [potential compromises](./atomic-compromises.md).
+One of the common concerns raised when discussing [atomic commits](./commits.md#atomicity) is whether this overcomplicates, clutters, or pollutes the graph. That's a fair question, and there are certainly tradeoffs. Depending on the branching strategy, there are some potential compromises.
 
 > NOTE: These compromises will touch on rebasing (all but one of them inherently include rebasing). A detailed discussion of rebasing, including when (and when **not**) to do it will be a separate discussion. If you're not familiar with rebasing yet, don't worry! The intended scope of this discussion is to show some alternatives for balancing atomicity of the commits against a desire to keep a clean graph. If you like one of these approaches, then you can dive into rebase to learn how to make it happen!
 
