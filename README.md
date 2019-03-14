@@ -33,3 +33,7 @@ I'll be filling these out as soon as time allows, but I wanted to establish a ro
 - What about forks?
 - What about rebase versus merge?
 - What about squashing?
+
+## License
+
+I'm putting this under the CC0-1.0 license. The full text is in the [LICENSE](./LICENSE) file. This is put into more human terms at [choose a license](https://choosealicense.com/licenses/cc0-1.0/) and at [Creative Commons](https://creativecommons.org/publicdomain/zero/1.0/). In short, my intent is that this is public domain.
