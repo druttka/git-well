@@ -34,6 +34,7 @@ I'll be filling these out as soon as time allows, but I wanted to establish a ro
 - Why is my new PR for one new commit also including a large number of old commits?
 - What about rebase versus merge?
 - What about squashing?
+- What about stashing?
 
 ## License
 
