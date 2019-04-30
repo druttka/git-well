@@ -24,6 +24,8 @@ I'll be filling these out as soon as time allows, but I wanted to establish a ro
 
 - What about the [command line versus graphical tools](./cli-vs-graphical.md)?
 - What about making [commits](./commits.md)?
+- What about merge versus rebase, squashing, etc.?
+    - This is a large discussion, but some of it is covered by discussing tradeoffs around the [atomicity of commits](./atomic-commits.md).
 - (Up next!) Can you just tell me the sequence of commands you use every time, assuming nothing has gone wrong?
 - What about branching strategies like:
     - partying directly on the mainline (aka trunk based)?
@@ -32,8 +34,6 @@ I'll be filling these out as soon as time allows, but I wanted to establish a ro
 - What about fetch versus pull?
 - What about forks?
 - Why is my new PR for one new commit also including a large number of old commits?
-- What about rebase versus merge?
-- What about squashing?
 - What about stashing?
 
 ## License
